@@ -14,6 +14,9 @@
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
+  <depend>moveit_studio_behavior_interface</depend>
+  <depend>example_interfaces</depend>
+
   <exec_depend>admittance_controller</exec_depend>
   <exec_depend>moveit_planners_stomp</exec_depend>
   <exec_depend>moveit_ros_perception</exec_depend>
